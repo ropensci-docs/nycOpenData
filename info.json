@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "39e9fd47f386b469c11f3949b47bfcafc30c1ebb",
+    "author": "Christian Martinez <c.martinez0@outlook.com>",
+    "time": "2026-09-25T21:48:16Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #14 from danielskatz/patch-1\n\nUpdate paper.bib"
+  },
+  "repo": "https://github.com/ropensci/nycOpenData",
+  "pkg": "nycOpenData",
+  "time": "2026-09-25T22:39:08Z"
+}
